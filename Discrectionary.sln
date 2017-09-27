@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discrectionary", "Discrectionary\Discrectionary.csproj", "{FF272A9F-E8E9-4863-87F6-20132CACCC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF272A9F-E8E9-4863-87F6-20132CACCC8F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FF272A9F-E8E9-4863-87F6-20132CACCC8F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FF272A9F-E8E9-4863-87F6-20132CACCC8F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FF272A9F-E8E9-4863-87F6-20132CACCC8F}.Release|iPhone.Build.0 = Release|iPhone
+		{FF272A9F-E8E9-4863-87F6-20132CACCC8F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FF272A9F-E8E9-4863-87F6-20132CACCC8F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{FF272A9F-E8E9-4863-87F6-20132CACCC8F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FF272A9F-E8E9-4863-87F6-20132CACCC8F}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
