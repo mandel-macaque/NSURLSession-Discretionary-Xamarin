@@ -26,7 +26,7 @@ namespace Discrectionary
                 session = NSUrlSession.FromConfiguration(config, this, null);
             }
 
-			downloadTask = session.CreateDownloadTask(new NSUrl("https://rss.art19.com/episodes/439bd7ab-177b-4552-a102-eca19b7e50fd.mp3"));
+			downloadTask = session.CreateDownloadTask(new NSUrl("http://rss.art19.com/episodes/439bd7ab-177b-4552-a102-eca19b7e50fd.mp3"));
 
             downloadTask.Resume();
         }
